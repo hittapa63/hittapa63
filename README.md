@@ -4,7 +4,7 @@ I'm a passionate developer with a flair for crafting elegant solutions and deliv
 
 ### 🚀 What I Do
 
-- **Full Stack Developer**: Proficient in Ruby, Ruby on Rails, React, and React Native.
+- **Full Stack Developer**: Proficient in Python, Django/Flask, Ruby, Ruby on Rails, React, and React Native.
 - **Problem Solver**: I thrive on tackling complex challenges and transforming them into elegant code.
 - **Open Source Contributor**: I believe in giving back to the community and have contributed to various open-source projects.
 
